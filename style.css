@@ -1,0 +1,64 @@
+body{
+    background-image: url(images/dbackground.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 3px;
+    color: white;
+}
+ol{
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+li{
+    display: inline-block;
+    margin-inline-start: 10px;
+}
+img{
+    width: 200px;
+    height: 100px;
+}
+a{
+    border: 1px solid;
+    border-radius: 10px;
+    text-decoration: none;
+    color: purple;
+    padding: 10px;
+    margin-right: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+header{
+    color: white;
+    font-size: larger;
+}
+h2{
+    color: white;
+}
+a:hover{
+    background-color: lightgreen;
+}
+table{
+    width: 90%;
+}
+table,th,td{
+    border: 1px solid;
+}
+th{
+    background-color: blueviolet;
+}
+td{
+    background-color: lightseagreen;
+}
+p{
+    color: white;
+    font-size: larger;
+}
+address{
+    color: white;
+}
